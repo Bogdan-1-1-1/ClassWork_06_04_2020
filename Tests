@@ -1,21 +1,26 @@
 (_exe1):
 
+input:
 3
 1 2 3
 
+input:
 10 
 7 4 3 2 2 1 9 33 2 10
 
+input:
 5
 0 3 2 1 1
 
 (_exe2):
 
+input:
 3
 Pupkin Vasya 3 4 1
 Markov Petr 4 4 5
 Mirin Fedor 3 4 3
 
+input:
 5
 Smith Mr 5 5 5
 Bond James 1 1 1
